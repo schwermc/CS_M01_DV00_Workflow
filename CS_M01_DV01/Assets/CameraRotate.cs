@@ -6,7 +6,7 @@ public class CameraRotate : MonoBehaviour
 {
     private float x;
     private float y;
-    private float sensitivity = -1f;
+    private float sensitivity = -2f;
     private Vector3 rotate;
 
     // Start is called before the first frame update
