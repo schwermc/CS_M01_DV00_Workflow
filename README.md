@@ -7,3 +7,5 @@ Play me: https://schwermc.github.io/CS_M01_DV01_Workflow/ <br>
     Left: A or Left Arrow <br>
     Up: Q or Right Shift <br>
     Down: E or Right Ctrl <br>
+    Color: C <br>
+    Visibility: I
